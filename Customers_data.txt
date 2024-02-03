@@ -1,0 +1,10 @@
+Card number: 2001 name: Khizar Ali CNIC: 3460756679458  Initial deposit: 30000 PIN: 9090
+Card number: 2003 name: Umer Ali CNIC: 4250373084118 Initial deposit: 60000 PIN: 8080
+Card number: 2004 name: Ayesha CNIC: 4230867308114 Initial deposit: 45000 PIN: 5656
+Card number: 2006 name: Abdullah CNIC: 3480473085229 Initial deposit: 70000 PIN: 1234
+Card number: 102 name: Umer CNIC: 3445 Initial deposit: 3000 PIN: 1212
+Card number: 104 name: malik CNIC: 200000 Initial deposit: 1000 PIN: 1212
+Card number: 202034 name: Umer CNIC: 3899767954876 Initial deposit: 50000 PIN: 1010
+Card number: 403928 name: Irfan CNIC: 3459867874521 Initial deposit: 4000 PIN: 1212
+Card number: 393942 name: Muhammad Ahmed CNIC: 3470839946115 Initial deposit: 50000 PIN: 4040
+Card number: 303010 name: Muhammad Asim CNIC: 3098789838437 Initial deposit: 55000 PIN: 2020
