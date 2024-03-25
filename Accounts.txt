@@ -12,5 +12,4 @@ Account Number: ߙ Name: Hamza Father Name: Ahsan CNIC: 3460373095115 Gender: Ma
 
 Account Number: ߙ Name: zain Father Name: ali CNIC: 34 Gender: Male Date of Birth: 1/04/1990 Contact Number:  378 Adress: skt Initial deposit: 1000
 
-Account Number: ߓ Name: Ahmed Father Name: awon CNIC: 333 Gender: Male Date of Birth: 2-9-2000 Contact Number:  039878 Adress: gujrat Initial deposit: 4000
 
