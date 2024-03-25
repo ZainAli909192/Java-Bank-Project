@@ -80,6 +80,7 @@ public class deposit_data extends login_data {
 
             if (rs.next() == false) {
                 JOptionPane.showMessageDialog(null, "No such Account created");
+                System.out.println("No account createed");
 
             } else {
                 setBlnc(rs.getString("balance"));
@@ -88,6 +89,8 @@ public class deposit_data extends login_data {
 
         } catch (SQLException ex) {
             Logger.getLogger(deposit.class.getName()).log(Level.SEVERE, null, ex);
+                            System.out.println("Connection error with Database");
+
         }
     }
 
